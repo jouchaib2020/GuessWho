@@ -1,0 +1,35 @@
+.container {
+    padding: 16px;
+    border-radius: 5px;
+    background: #e0e0e0;  
+    box-shadow:  8px 8px 16px #969696,
+             -8px -8px 16px #ffffff;
+
+  }
+  
+.typography {
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+.header {
+    margin-bottom: 12px;
+  }
+  
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 4px;
+background: linear-gradient(145deg, #cacaca, #f0f0f0);
+box-shadow:  16px 16px 32px #a1a1a1,
+             -16px -16px 32px #ffffff;
+  }
+  
+.correctIcon {
+    color: green;
+  }
+  
+.wrongIcon {
+    color: red;
+  }
+  

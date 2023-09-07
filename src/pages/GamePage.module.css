@@ -1,0 +1,24 @@
+html{
+    background-color: #e0e0e0;
+}
+.dialogContainer{
+    background-color: #e0e0e0;
+    text-align: center;
+    padding: 8;
+    background-color: #e0e0e0; 
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  16px 16px 32px #a1a1a1, -16px -16px 32px #ffffff
+
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #e0e0e0;
+}
+.sideBar {
+    background: #e0e0e0;
+
+}
