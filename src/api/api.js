@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3001/api',
+  baseURL: 'https://octopus-app-48u9k.ondigitalocean.app/api',
   withCredentials: true
 });
 
